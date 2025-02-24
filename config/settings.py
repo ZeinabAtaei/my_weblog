@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     #local app
     'accounts',
     'pages',
+    'blogs',
     # crispy app
     'crispy_forms',
     'crispy_bootstrap5'
